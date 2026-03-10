@@ -12,13 +12,10 @@ The business tracked 1,800 rows of performance data across three major digital a
 
 **Action:**
 
-**Data Quality Audit:** Executed a SQL audit using WHERE functions to identify if there were any conversions where there was no ad spend, ensuring the integrity of the data.
-
-**AVG (CPC \& ROAS) Calculation:** Executed a SQL query utilizing AVG functions for the CPC \& ROAS GROUPED BY platform to see the comparison between each platforms' CPC \& ROAS.
-
-**Deeper Analysis:** Used a final SQL query using the same AVG functions for the CPC \& ROAS, but this time GROUPED BY industry and platform in order to compare ad performance per industry and platform, ROUNDED to 2 decimals for clean presentation.
-
-**Visualization:** Migrated the final dataset to Connected Sheets to create a Pivot Table with the results, along with 2 separate Column Charts for visual representation of the data.
+* **Data Quality Audit:** Executed a SQL audit using WHERE functions to identify if there were any conversions where there was no ad spend, ensuring the integrity of the data.
+* **AVG (CPC \& ROAS) Calculation:** Executed a SQL query utilizing AVG functions for the CPC \& ROAS GROUPED BY platform to see the comparison between each platforms' CPC \& ROAS.
+* **Deeper Analysis:** Used a final SQL query using the same AVG functions for the CPC \& ROAS, but this time GROUPED BY industry and platform in order to compare ad performance per industry and platform, ROUNDED to 2 decimals for clean presentation.
+* **Visualization:** Migrated the final dataset to Connected Sheets to create a Pivot Table with the results, along with 2 separate Column Charts for visual representation of the data.
 
 
 
@@ -59,4 +56,5 @@ The business tracked 1,800 rows of performance data across three major digital a
 
 
 [Project 4 Google Sheet](https://docs.google.com/spreadsheets/d/1gWgPcy06uEikiP9FQjfxbsinyJW__1VqY49g6D7Mhyo/edit?usp=sharing)
+
 
