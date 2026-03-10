@@ -32,18 +32,11 @@ The business tracked 1,800 rows of performance data across three major digital a
 
 
 
-
-
-
-
-
 **Tools Used:**
 
-**SQL (BigQuery):** Data extraction and aggregation.
-
-**Google Sheets (Connected Sheets):** Data transformation.
-
-**Data Visualization:** Column Charts and Pivot Table analysis.
+* **SQL (BigQuery):** Data extraction and aggregation.
+* **Google Sheets (Connected Sheets):** Data transformation.
+* **Data Visualization:** Column Charts and Pivot Table analysis.
 
 
 
@@ -56,5 +49,6 @@ The business tracked 1,800 rows of performance data across three major digital a
 
 
 [Project 4 Google Sheet](https://docs.google.com/spreadsheets/d/1gWgPcy06uEikiP9FQjfxbsinyJW__1VqY49g6D7Mhyo/edit?usp=sharing)
+
 
 
